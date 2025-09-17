@@ -2,7 +2,7 @@
 Problem 1:
 
 We have successfully defined how to identify whether each person is wearing a mask or not.
-Social Distancing Monitoring using OpencV ,pyhton and YOLO.
+Social Distancing Monitoring using OpenCV ,python and YOLO.
 Add yolo-coco folder and models folder as it is a large file you'll have to download it from 
 
 https://drive.google.com/file/d/1DwSKG3ptARnEc56XCor1Upa3lYjcWr_y/view?usp=sharing
@@ -15,11 +15,3 @@ You can change the social distance threshold in program to make sure it works be
 
 
 
- 
-Group Members:
-Kanishka Gupta 
-Tanay Gattani
-Jay Kadam
-Piyush Chiwande
-Himanshi Jain
-Anuj Sonsurkar
