@@ -45,8 +45,6 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-*(Note: You will need to create a `requirements.txt` file containing the necessary packages. A good starting point would be: `tensorflow, opencv-python, scikit-learn, numpy, scipy, imutils`)*
-
 ### 3\. Download Pre-trained Models
 
 This project requires pre-trained models for face detection and person detection.
